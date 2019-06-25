@@ -1,2 +1,2 @@
-# public_file
-公共文件
+﻿# public_file
+公共文件.
